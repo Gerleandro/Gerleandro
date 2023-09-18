@@ -1,11 +1,13 @@
-### Hello :) I'm Gerleandro S Silva 
+### Hello :) (￣︶￣)> I'm Gerleandro S Silva　
+#### Languages ▼
 <div style="display: inline_block"><br>
   <img align="center" alt="Gerleandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gerleandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gerleandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
- ##
+ #### GitHub stats ▼
+ 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gerleandro&show_icons=true&bg_color=000000"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerleandro&show_icons=true&bg_color=000000&layout=compact"/>
