@@ -4,9 +4,11 @@
 - 😄 Pronouns: He/Him
 
 <div>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Gerleandro&show_icons=true&bg_color=000000"/>
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gerleandro&show_icons=true&bg_color=000000"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerleandro&show_icons=true&bg_color=000000&layout=compact"/>
 </div>
+
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gerleandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
