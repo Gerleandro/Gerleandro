@@ -1,6 +1,6 @@
 ### Hello ^_^ I'm Gerleandro S Silva
 #### Technologies ▼
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Gerleandro-Js" height="30" width="40" target="_black" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" href="">
   <img align="center" alt="Gerleandro-HTML" height="30" width="40" target="_black" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" href="">
   <img align="center" alt="Gerleandro-CSS" height="30" width="40" target="_black" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" href="">
