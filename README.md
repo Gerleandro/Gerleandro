@@ -1,11 +1,11 @@
 ### Hello ^_^ I'm Gerleandro S Silva
 #### Languages ▼
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gerleandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gerleandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gerleandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gerleandro-GitHub" height="30" width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
-  <img align="center" alt="Gerleandro-Portugol" height="30" width="40" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png">
+  <img align="center" alt="Gerleandro-Js" height="30" width="40" target="_black" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" href="">
+  <img align="center" alt="Gerleandro-HTML" height="30" width="40" target="_black" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" href="">
+  <img align="center" alt="Gerleandro-CSS" height="30" width="40" target="_black" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" href="">
+  <img align="center" alt="Gerleandro-GitHub" height="30" width="40" target="_black" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" href="">
+  <img align="center" alt="Gerleandro-Portugol" height="30" width="40" target="_black" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" href="">
 </div>
 
  #### GitHub stats ▼
