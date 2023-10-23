@@ -8,7 +8,7 @@
   <img align="center" alt="Gerleandro-Portugol" height="30" width="40" target="_black" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" href="">
 </div><br>
 
-<table align="center">
+<table align="start">
 <tr border="none">
 <td width="50%" align="center">
   
@@ -25,14 +25,8 @@
 </tr>
 </table>
 
- #### GitHub stats ▼
- 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gerleandro&show_icons=true&bg_color=000000"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerleandro&show_icons=true&bg_color=000000&layout=compact"/>
-</div>
-  
-  ## 
+ #### GitHub stats ▼  
+
 <div> 
   <a href="https://www.linkedin.com/in/gerleandro-s-silva-hard" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCZFc3dPOoMkHvfUcOmsORXA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
