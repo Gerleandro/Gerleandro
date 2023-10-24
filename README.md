@@ -1,6 +1,8 @@
 
-<div>
+<div style="display: inline_block">
    <h1><i>Hello </i> 🐱‍👤 I'm Gerleandro S Silva</h1>
+   <h3>About Me ▼ </h3>
+   <p width="300px"> a preencher digitei qualquer coisa pra ter umas nossao de como vai ficar mas logo eu colorarei algo bem mais elaborado por enquanto é so apenas um texto explicativo</p>
 <div/>
   
  #### Technologies ▼  
