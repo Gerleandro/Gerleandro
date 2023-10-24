@@ -71,7 +71,7 @@
 
 <br>
 <!--Contatos-->
-<h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h2>
+<h3 align="center"><i>C O N T A T O S</i></h2>
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/gerleandro-s-silva-hard" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
