@@ -1,9 +1,10 @@
 
-<div style="display: inline_block">
+<div align="center">
    <h1><i>Hello </i> 🐱‍👤 I'm Gerleandro S Silva</h1>
-   <h4>About Me ▼ </h4>
-   <p width="300px"> a preencher digitei qualquer coisa pra ter umas nossao de como vai ficar mas logo eu colorarei algo bem mais elaborado por enquanto é so apenas um texto explicativo</p>
 <div/>
+
+[![MasterHead](https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif)](https://Gerleandro.github.io)
+
   
  #### Technologies ▼  
 <div style="display: inline_block">
@@ -18,7 +19,7 @@
 
  #### GitHub stats ▼ 
 
-<table align="start">
+<table align="center">
 <tr border="none">
 <td width="50%" align="center">
   
@@ -34,11 +35,11 @@
   </td>
 </tr>
 </table>
-
+ <hr>
 <div> 
   <a href="https://www.linkedin.com/in/gerleandro-s-silva-hard" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCZFc3dPOoMkHvfUcOmsORXA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gerleandro_silva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gerlleandrosyllva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
-
+ <hr>
