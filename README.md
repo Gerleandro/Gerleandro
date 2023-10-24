@@ -15,7 +15,6 @@
 <div align = "left">
 <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" display="inline-block" alt="Setup"></div>
 
-<br>
 
 
 ### Languages:
@@ -37,15 +36,15 @@
 ### Platforms:
 <p align="left">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=replit,firebase,figma,codepen,discord,instagram,linkedin,&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=firebase,figma,codepen,replit,&theme=dark" />
   </a>
 </p>
 
 
-
+### Social Networks
 <p align="left">
   <a href="https://skillicons.dev">
-    <br></br>
+     <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,&theme=dark" />
   </a>
 </p>
 
