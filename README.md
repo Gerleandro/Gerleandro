@@ -3,7 +3,7 @@
 
    <h1 align="center"><i>Hello </i> 🐱‍👤 I'm Gerleandro S Silva</h1>
   
- ### About Me:
+## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
  
 
 <hr>
