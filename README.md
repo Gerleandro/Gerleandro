@@ -15,30 +15,29 @@
 <div align = "left">
 <img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" display="inline-block" alt="Setup"></div>
 
-<br><br/>
+<br>
 
 
-### Languages and Tools:
-
+### Languages:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" />
-  </a>
-</p>
-<br><br/>
-<br><br/>
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <br></br>
+    <img src="https://skillicons.dev/icons?i=html,css,js,&theme=dark" />
   </a>
 </p>
 
 
-
+### Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-     <br></br>
+     <img src="https://skillicons.dev/icons?i=git,github,vscode,ps,&theme=dark" />
+  </a>
+</p>
+
+
+### Platforms:
+<p align="left">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=replit,firebase,figma,codepen,discord,instagram,linkedin,&theme=dark" />
   </a>
 </p>
 
