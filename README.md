@@ -1,23 +1,56 @@
 
-<div align="center">
-   <h1><i>Hello </i> 🐱‍👤 I'm Gerleandro S Silva</h1>
-<div/>
 
-[![MasterHead](https://gifs.eco.br/wp-content/uploads/2022/11/gifs-de-programador-17.gif)](https://Gerleandro.github.io)
 
+   <h1 align="center"><i>Hello </i> 🐱‍👤 I'm Gerleandro S Silva</h1>
   
- #### Technologies ▼  
-<div style="display: inline_block">
-  <img align="center" alt="Gerleandro-Js" height="30" width="40" target="_black" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" href="">
-  <img align="center" alt="Gerleandro-HTML" height="30" width="40" target="_black" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" href="">
-  <img align="center" alt="Gerleandro-CSS" height="30" width="40" target="_black" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" href="">
-  <img align="center" alt="Gerleandro-GitHub" height="30" width="40" target="_black" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" href="">
-  <img align="center" alt="Gerleandro-Portugol" height="30" width="40" target="_black" src="https://univali-lite.github.io/Portugol-Studio/assets/img/logo.png" href="">
-  <img align="center" alt="Gerleandro-GitHub" height="30" width="40" target="_black" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" href="">
+ ### About Me:
  
-</div><br>
 
- #### GitHub stats ▼ 
+<hr>
+
+
+
+
+
+<div align = "left">
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" display="inline-block" alt="Setup"></div>
+
+<br><br/>
+
+
+### Languages and Tools:
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" />
+  </a>
+</p>
+<br><br/>
+<br><br/>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <br></br>
+  </a>
+</p>
+
+
+
+<p align="left">
+  <a href="https://skillicons.dev">
+     <br></br>
+  </a>
+</p>
+
+
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <br></br>
+  </a>
+</p>
+
+<hr>
 
 <table align="center">
 <tr border="none">
@@ -35,11 +68,16 @@
   </td>
 </tr>
 </table>
- <hr>
-<div> 
+
+<br>
+<!--Contatos-->
+<h3 align="center">:phone: <i>C O N T A T O S</i> :phone:</h2>
+
+<div align="center"> 
   <a href="https://www.linkedin.com/in/gerleandro-s-silva-hard" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.youtube.com/channel/UCZFc3dPOoMkHvfUcOmsORXA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gerleandro_silva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gerlleandrosyllva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
- <hr>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
