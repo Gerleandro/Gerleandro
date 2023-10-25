@@ -62,7 +62,7 @@ If you want to know more about me, feel free to get in touch</h4>
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Gerleandro&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?username=Gerleandro&theme=midnight-purple&hide_border=false"/> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gerleandro&theme=midnight-purple&hide_border=false"/> 
 </td>
 
 <td width="50%" align="center">
