@@ -18,14 +18,15 @@ If you want to know more about me, feel free to get in touch</h4>
 
 
 <div align = "left">
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" display="inline-block" alt="Setup"></div>
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" display="inline-block" alt="Setup">
+</div>
 
 
 
 ### Languages:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,&theme=dark"/>
   </a>
 </p>
 
@@ -33,7 +34,7 @@ If you want to know more about me, feel free to get in touch</h4>
 ### Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git,github,vscode,&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=git,github,vscode,&theme=dark"/>
   </a>
 </p>
 
@@ -41,7 +42,7 @@ If you want to know more about me, feel free to get in touch</h4>
 ### Platforms:
 <p align="left">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=firebase,figma,codepen,replit,&theme=dark" />
+   <img src="https://skillicons.dev/icons?i=firebase,figma,codepen,replit,&theme=dark"/>
   </a>
 </p>
 
@@ -49,7 +50,7 @@ If you want to know more about me, feel free to get in touch</h4>
 ### Social Networks
 <p align="left">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,&theme=dark" />
+     <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,&theme=dark"/>
   </a>
 </p>
 
@@ -59,9 +60,9 @@ If you want to know more about me, feel free to get in touch</h4>
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Gerleandro&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Gerleandro&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false"/>
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gerleandro&theme=midnight-purple&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Gerleandro&theme=midnight-purple&hide_border=false"/> 
 </td>
 
 <td width="50%" align="center">
