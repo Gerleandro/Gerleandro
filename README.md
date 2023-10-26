@@ -54,7 +54,7 @@ If you want to know more about me, feel free to get in touch</h4>
   </a>
 </p>
 
-<hr>https://github-readme-stats.vercel.app/api?username=Gerleandro&show_icons=true&locale=en
+<hr>
 
 <table align="center">
 <tr border="none">
