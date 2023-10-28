@@ -42,7 +42,7 @@ If you want to know more about me, feel free to get in touch</h4>
 ### Platforms:
 <p align="left">
   <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=firebase,figma,codepen,replit,&theme=dark"/>
+   <img src="https://skillicons.dev/icons?i=figma,codepen,replit,&theme=dark"/>
   </a>
 </p>
 
