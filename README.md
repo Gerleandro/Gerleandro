@@ -5,7 +5,7 @@
   
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
 
-<h4 align="start">I'm Hard and I'm 23 years old. Currently, I want to work with programming and 
+<h4 align="start">I'm Hard, Currently, I want to work with programming and 
 I have a passion for technology in general and spend my free time studying programming.
 I have training in computer assembly, maintenance, formatting and restoration of operating systems
 i currently making a career transition to the web development area
