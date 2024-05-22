@@ -1,12 +1,10 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Danfo&display=swap" rel="stylesheet">
-<!-- ====================================================   (   H E A D E R   )  ======================================================= -->
 
- 
-   
-<picture><h1 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px" align="center"><i>Hello </i> I'm Hard</h1></picture>
-<h4 align="left" width="500px">I'm Hard, Currently, I want to work with programming and 
+<!-- ====================================================   (   H E A D E R   )  ======================================================= -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=header&text=I%20m%20Hard&fontSize=100&animation=scaleIn"/>
+
+<h4 align="left" width="500px">
+<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px" align="center">
+I'm Hard, Currently, I want to work with programming and 
 I have a passion for technology in general and spend my free time studying programming.
 I have training in computer assembly, maintenance, formatting and restoration of operating systems
 i currently making a career transition to the web development area
@@ -59,4 +57,4 @@ If you want to know more about me, feel free to get in touch</h4>
   <a href="#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
