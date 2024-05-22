@@ -29,7 +29,11 @@ If you want to know more about me, feel free to get in touch</h4>
     <img src="https://skillicons.dev/icons?i=html,css,js,&theme=dark"/>
   </a>
 </p>
-
+<p align="left">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=nodejs,git,&theme=dark"/>
+  </a>
+</p>
 <p align="left">
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=github,vscode,&theme=dark"/>
