@@ -26,12 +26,10 @@ If you want to know more about me, feel free to get in touch</h4>
 ### Skills:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,&theme=dark"/>
   </a>
 </p>
 
-
-### Tools:
 <p align="left">
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=github,vscode,&theme=dark"/>
