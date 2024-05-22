@@ -1,7 +1,6 @@
 
 <!-- ====================================================   (   H E A D E R   )  ======================================================= -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=150&section=header&text=I%20m%20Hard&fontSize=100&animation=scaleIn"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7600bc&height=120&section=header&text=I%20m%20Hard&fontSize=50&animation=scaleIn&fontColor=fffafa&"/>
 <h4 align="left" width="500px">
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px" align="center">
 I'm Hard, Currently, I want to work with programming and 
@@ -57,4 +56,4 @@ If you want to know more about me, feel free to get in touch</h4>
   <a href="#"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7600bc&height=120&section=footer"/>
