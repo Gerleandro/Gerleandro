@@ -20,18 +20,10 @@ If you want to know more about me, feel free to get in touch</h4>
 
 <!-- ====================================================   (   S K I L L S   )  ======================================================= -->
 
-<h1 font-size="16px" >SKILLS</h1>
+<h1 align="center" >SKILLS</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,vscode,github,codepen,replit,&theme=dark"/>
-  </a>
-</p>
-
-
-<h1 font-size="20px" >SOCIAL NETWORK</h1>
-<p align="left">
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,&theme=dark"/>
   </a>
 </p>
 
