@@ -1,10 +1,11 @@
-
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Danfo&display=swap" rel="stylesheet">
 <!-- ====================================================   (   H E A D E R   )  ======================================================= -->
 
-   <h1 align="center"><i>Hello </i> 🐱‍👤 I'm Hard</h1>
-  
-## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
-
+ 
+   
+<picture><h1 align="center"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px" align="center"><i>Hello </i> I'm Hard</h1></picture>
 <h4 align="left" width="500px">I'm Hard, Currently, I want to work with programming and 
 I have a passion for technology in general and spend my free time studying programming.
 I have training in computer assembly, maintenance, formatting and restoration of operating systems
@@ -19,30 +20,15 @@ If you want to know more about me, feel free to get in touch</h4>
 
 <!-- ====================================================   (   S K I L L S   )  ======================================================= -->
 
-### Skills:
-<p align="left">
+<h1 font-size="16px" >SKILLS</h1>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,&theme=dark"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=nodejs,git,&theme=dark"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=github,vscode,&theme=dark"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://skillicons.dev">
-   <img src="https://skillicons.dev/icons?i=figma,codepen,replit,&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,vscode,github,codepen,replit,&theme=dark"/>
   </a>
 </p>
 
 
-### Social Networks
+<h1 font-size="20px" >SOCIAL NETWORK</h1>
 <p align="left">
   <a href="https://skillicons.dev">
      <img src="https://skillicons.dev/icons?i=discord,instagram,linkedin,&theme=dark"/>
