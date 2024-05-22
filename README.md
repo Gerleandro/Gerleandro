@@ -34,7 +34,7 @@ If you want to know more about me, feel free to get in touch</h4>
 ### Tools:
 <p align="left">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=git,github,vscode,&theme=dark"/>
+     <img src="https://skillicons.dev/icons?i=github,vscode,&theme=dark"/>
   </a>
 </p>
 
