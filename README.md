@@ -1,27 +1,23 @@
 
-
+<!-- ====================================================   (   H E A D E R   )  ======================================================= -->
 
    <h1 align="center"><i>Hello </i> 🐱‍👤 I'm Hard</h1>
   
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 30px align="center"></picture><b> About Me</b>
 
-<h4 align="start">I'm Hard, Currently, I want to work with programming and 
+<h4 align="left" width="500px">I'm Hard, Currently, I want to work with programming and 
 I have a passion for technology in general and spend my free time studying programming.
 I have training in computer assembly, maintenance, formatting and restoration of operating systems
 i currently making a career transition to the web development area
 If you want to know more about me, feel free to get in touch</h4>
+<!-- <div align = "right">
+<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" display="inline-block" alt="Setup">
+</div> -->
 
 <hr>
 
 
-
-
-
-<div align = "left">
-<img src="https://user-images.githubusercontent.com/81328619/213875785-400ae517-156b-4aca-a787-bac75d84c393.gif" align="right" width="350px" display="inline-block" alt="Setup">
-</div>
-
-
+<!-- ====================================================   (   S K I L L S   )  ======================================================= -->
 
 ### Skills:
 <p align="left">
@@ -39,9 +35,6 @@ If you want to know more about me, feel free to get in touch</h4>
      <img src="https://skillicons.dev/icons?i=github,vscode,&theme=dark"/>
   </a>
 </p>
-
-
-### Platforms:
 <p align="left">
   <a href="https://skillicons.dev">
    <img src="https://skillicons.dev/icons?i=figma,codepen,replit,&theme=dark"/>
@@ -57,6 +50,7 @@ If you want to know more about me, feel free to get in touch</h4>
 </p>
 
 <hr>
+<!-- ====================================================   (      )   ======================================================= -->
 
 <table align="center">
 <tr border="none">
@@ -77,7 +71,8 @@ If you want to know more about me, feel free to get in touch</h4>
 </table>
 
 <br>
-<!--Contatos-->
+<!-- =================================================   (  C O N T A D O S  )   ==================================================== -->
+
 <h3 align="center"><i>C O N T A T O S</i></h2>
 
 <div align="center"> 
