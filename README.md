@@ -1,6 +1,4 @@
-
-<!-- ====================================================   (   H E A D E R   )  ======================================================= -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7600bc&height=120&section=header&text=I%20m%20Hard&fontSize=50&animation=scaleIn&fontColor=fffafa&"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=00000&text=I%20m%20Hard&fontColor=000000&animation=fadeIn&stroke=7600bc&strokeWidth=3&textBg=false"/>
 <h4 align="left" width="500px">
 <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="40px" align="center">
 I'm Hard, Currently, I want to work with programming and 
