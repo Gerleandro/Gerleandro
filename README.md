@@ -23,10 +23,10 @@ If you want to know more about me, feel free to get in touch</h4>
 
 
 
-### Languages:
+### Skills:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,&theme=dark"/>
   </a>
 </p>
 
