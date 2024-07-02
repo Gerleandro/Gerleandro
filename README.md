@@ -18,7 +18,7 @@ If you want to know more about me, feel free to get in touch</h4>
 <h1 align="center" >SKILLS</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,vscode,github,netlify,codepen,replit,&theme=dark"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,git,github,vscode,netlify,&theme=dark"/>
   </a>
 </p>
 
